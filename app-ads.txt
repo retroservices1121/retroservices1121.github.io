@@ -1,9 +1,3 @@
 # app-ads.txt for MOBI MEDIA, INC. (retroservices1121.github.io)
-# Authorized digital sellers for The Last Alibi (iOS, com.retroservices1121.awake).
-#
-# PLACEHOLDER: no sellers are authorized yet.
-# When the AdMob account exists, replace pub-0000000000000000 with the real publisher ID
-# (AdMob > Settings > Account information > Publisher ID) and REMOVE the leading "# " from the line below.
-# The line format is fixed by Google: google.com, <publisher id>, DIRECT, f08c47fec0942fa0
-#
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# Authorized digital sellers for The Last Alibi (iOS, com.retroservices1121.awake)
+google.com, pub-8941411937846371, DIRECT, f08c47fec0942fa0
